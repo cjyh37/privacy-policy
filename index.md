@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy
+title: Privacy Policy - FanGlow
 ---
 
 # Privacy Policy for FanGlow
@@ -40,6 +40,7 @@ We use the collected information to:
 The App may use the following third-party services:
 - **Expo**: For app development and updates
 - **App Store / Google Play**: For app distribution
+- **RevenueCat**: For in-app purchase management
 
 ## Data Security
 
@@ -109,6 +110,7 @@ KELDI Inc.(이하 "회사")는 FanGlow 모바일 애플리케이션(이하 "앱"
 앱은 다음 제3자 서비스를 사용할 수 있습니다:
 - **Expo**: 앱 개발 및 업데이트
 - **App Store / Google Play**: 앱 배포
+- **RevenueCat**: 인앱 결제 관리
 
 ## 데이터 보안
 
