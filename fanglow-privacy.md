@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for FanGlow
 
 **Last Updated: December 20, 2024**
