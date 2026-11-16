@@ -5,10 +5,11 @@ title: 스마트 디텍터 - 개인정보처리방침
 
 # 개인정보처리방침
 
-**스마트 디텍터** (Smart Detector, Android 패키지명: ai.fwth.smartdetector, 이하 "앱")는 **FWTH**(이하 "운영자")가 개발·운영하는 시험 감독 보조 앱입니다. 운영자는 「개인정보 보호법」 등 관련 법령을 지킵니다.
+**스마트 디텍터** (Smart Detector, Android 패키지명: ai.fwth.smartdetector, 이하 "앱")는 **주식회사 한국이러닝개발원** (이하 "회사")이 개발 및 운영하는 시험 감독 보조 앱이며, 회사는 「개인정보 보호법」 등 관련 법령을 준수합니다.
 
 **앱 이름:** 스마트 디텍터 (Smart Detector)
-**운영자:** FWTH
+**개발사:** 주식회사 한국이러닝개발원
+**소재지:** 대한민국
 **연락처:** cjyh37@gmail.com
 **최종 수정일:** 2026년 11월 16일
 **시행일:** 2026년 11월 16일 (앱 0.11부터)
@@ -20,7 +21,7 @@ title: 스마트 디텍터 - 개인정보처리방침
 ## 1. 요약
 
 - 회원가입이 없고, 이름·이메일·전화번호를 묻지 않습니다.
-- 앱이 수신한 무선 신호와 검사 기록은 **휴대폰 안에만 저장**되고 운영자에게 보내지 않습니다.
+- 앱이 수신한 무선 신호와 검사 기록은 **휴대폰 안에만 저장**되고 회사에 보내지 않습니다.
 - 인터넷에 연결되어 있으면 앱 개선을 위한 **사용 통계**를 Google의 Firebase Analytics로 보냅니다.
 - 광고 ID는 수집하지 않고, 광고를 넣지 않습니다.
 
@@ -33,7 +34,7 @@ title: 스마트 디텍터 - 개인정보처리방침
 - **수신한 신호:** 기기가 광고하는 이름, 종류 단서, 신호 세기, 수신 시각, 주소에서 만든 구분값
 - **검사 기록:** 시험실 이름, 시작 전·시작 후 신호 목록, 판단 메모, 수신하지 못한 시간
 
-이 정보는 휴대폰의 앱 저장소에만 저장되며 운영자나 제3자에게 전송되지 않습니다. 기기 백업에도 포함하지 않습니다. 보고서를 다른 앱으로 공유하는 것은 사용자가 직접 할 때만 이루어집니다. 앱의 **본부** 메뉴에서 기록을 지울 수 있고, 앱을 삭제하면 모두 삭제됩니다.
+이 정보는 휴대폰의 앱 저장소에만 저장되며 회사나 제3자에게 전송되지 않습니다. 기기 백업에도 포함하지 않습니다. 보고서를 다른 앱으로 공유하는 것은 사용자가 직접 할 때만 이루어집니다. 앱의 **본부** 메뉴에서 기록을 지울 수 있고, 앱을 삭제하면 모두 삭제됩니다.
 
 주변 기기의 신호에는 다른 사람의 기기 이름이 들어 있을 수 있습니다. 앱은 이를 소유자와 연결하지 않으며, 소유자·좌석·부정행위 여부를 판정하지 않습니다.
 
@@ -81,7 +82,7 @@ Google의 처리 방식은 [Google 개인정보처리방침](https://policies.go
 
 ## 5. 제3자 제공
 
-운영자는 사용자의 정보를 제3자에게 판매하거나 제공하지 않습니다. 3절의 사용 통계 처리를 위해 Google LLC(Firebase Analytics)를 이용합니다. 광고 SDK는 포함하지 않습니다.
+회사는 사용자의 정보를 제3자에게 판매하거나 제공하지 않습니다. 3절의 사용 통계 처리를 위해 Google LLC(Firebase Analytics)를 이용합니다. 광고 SDK는 포함하지 않습니다.
 
 ---
 
@@ -105,7 +106,7 @@ Google의 처리 방식은 [Google 개인정보처리방침](https://policies.go
 
 ## 9. 문의
 
-- **운영자:** FWTH
+- **회사명:** 주식회사 한국이러닝개발원
 - **이메일:** cjyh37@gmail.com
 
 ---
@@ -114,7 +115,7 @@ Google의 처리 방식은 [Google 개인정보처리방침](https://policies.go
 
 # Privacy Policy (English)
 
-**Smart Detector** (Android package: ai.fwth.smartdetector, the "App") is an exam-proctoring aid developed and operated by **FWTH**.
+**Smart Detector** (Android package: ai.fwth.smartdetector, the "App") is an exam-proctoring aid developed and operated by **KELDI Inc.** (South Korea).
 
 **Contact:** cjyh37@gmail.com
 **Last updated / Effective:** November 16, 2026 (from app version 0.11)
@@ -152,4 +153,4 @@ The App is a tool for exam proctors and is not directed at children under 14. We
 
 ## Changes and contact
 
-Changes are announced on this page and in the App's release notes on GitHub. Contact: FWTH, cjyh37@gmail.com.
+Changes are announced on this page and in the App's release notes on GitHub. Contact: KELDI Inc., cjyh37@gmail.com.
