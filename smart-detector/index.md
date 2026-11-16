@@ -10,7 +10,7 @@ title: 스마트 디텍터 - 개인정보처리방침
 **앱 이름:** 스마트 디텍터 (Smart Detector)
 **개발사:** 주식회사 한국이러닝개발원
 **소재지:** 대한민국
-**연락처:** cjyh37@gmail.com
+**연락처:** smartdetector@fwth.ai
 **최종 수정일:** 2026년 11월 16일
 **시행일:** 2026년 11월 16일 (앱 0.11부터)
 
@@ -107,7 +107,7 @@ Google의 처리 방식은 [Google 개인정보처리방침](https://policies.go
 ## 9. 문의
 
 - **회사명:** 주식회사 한국이러닝개발원
-- **이메일:** cjyh37@gmail.com
+- **이메일:** smartdetector@fwth.ai
 
 ---
 
@@ -117,7 +117,7 @@ Google의 처리 방식은 [Google 개인정보처리방침](https://policies.go
 
 **Smart Detector** (Android package: ai.fwth.smartdetector, the "App") is an exam-proctoring aid developed and operated by **KELDI Inc.** (South Korea).
 
-**Contact:** cjyh37@gmail.com
+**Contact:** smartdetector@fwth.ai
 **Last updated / Effective:** November 16, 2026 (from app version 0.11)
 
 ## Summary
@@ -153,4 +153,4 @@ The App is a tool for exam proctors and is not directed at children under 14. We
 
 ## Changes and contact
 
-Changes are announced on this page and in the App's release notes on GitHub. Contact: KELDI Inc., cjyh37@gmail.com.
+Changes are announced on this page and in the App's release notes on GitHub. Contact: KELDI Inc., smartdetector@fwth.ai.
